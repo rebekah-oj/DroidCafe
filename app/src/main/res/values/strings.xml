@@ -19,6 +19,14 @@
     <string name="pick_up">Pick up</string>
     <string name="same_day_messenger_service">Same day messenger service</string>
     <string name="Rebekah_desserts">Rebekah Desserts</string>
+    <string name="Contact">Contact</string>
+    <string name="Order">Order</string>
+    <string name="Status">Status</string>
+    <string name="Favorites">Favorites</string>
+    <string name="action_order_message">You selected Order.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorites_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
     <string-array name="labels_array">
         <item>Home</item>
         <item>Work</item>

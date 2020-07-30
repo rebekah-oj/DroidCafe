@@ -66,7 +66,7 @@ class OrderActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
     override fun onNothingSelected(parent: AdapterView<*>?) {}
 
     override fun onItemSelected(parent: AdapterView<*>?, view: View?, position: Int, id: Long) {
-        val spinnerLabel = parent.getItemAtPosition(i).toString()
+        val spinnerLabel = parent?.getItemAtPosition(i).toString()
         displayToast(spinnerLabel)
     }
 }
