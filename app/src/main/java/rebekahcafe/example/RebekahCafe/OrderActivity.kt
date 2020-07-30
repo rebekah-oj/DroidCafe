@@ -1,10 +1,11 @@
-package com.example.RebekahCafe
+package rebekahcafe.example.RebekahCafe
 
 import android.os.Bundle
 import android.view.View
 import android.widget.*
 import android.widget.ArrayAdapter
 import androidx.appcompat.app.AppCompatActivity
+import com.example.RebekahCafe.R
 
 
 class OrderActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {

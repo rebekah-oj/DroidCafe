@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.RebekahCafe.OrderActivity"></activity>
-        <activity android:name="com.example.RebekahCafe.MainActivity">
+        <activity android:name="com.example.RebekahCafe.rebekahcafe.example.RebekahCafe.OrderActivity"></activity>
+        <activity android:name="com.example.RebekahCafe.rebekahcafe.example.RebekahCafe.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

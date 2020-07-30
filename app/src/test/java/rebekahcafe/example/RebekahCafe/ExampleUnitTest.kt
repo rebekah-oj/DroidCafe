@@ -1,4 +1,4 @@
-package com.example.RebekahCafe
+package rebekahcafe.example.RebekahCafe
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
